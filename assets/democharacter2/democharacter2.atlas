@@ -1,0 +1,174 @@
+
+democharacter2.png
+size: 513,315
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leg-left-01
+  rotate: false
+  xy: 64, 2
+  size: 57, 158
+  orig: 57, 158
+  offset: 0, 0
+  index: -1
+leg-left-02
+  rotate: false
+  xy: 2, 2
+  size: 57, 158
+  orig: 57, 158
+  offset: 0, 0
+  index: -1
+thigh-left-02
+  rotate: false
+  xy: 308, 120
+  size: 60, 133
+  orig: 60, 133
+  offset: 0, 0
+  index: -1
+thigh-left-01
+  rotate: false
+  xy: 242, 2
+  size: 61, 133
+  orig: 61, 133
+  offset: 0, 0
+  index: -1
+foot-left
+  rotate: false
+  xy: 41, 259
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1
+thigh-right-02
+  rotate: false
+  xy: 373, 120
+  size: 53, 134
+  orig: 53, 134
+  offset: 0, 0
+  index: -1
+thigh-right-01
+  rotate: false
+  xy: 431, 120
+  size: 53, 134
+  orig: 53, 134
+  offset: 0, 0
+  index: -1
+leg-right-02
+  rotate: false
+  xy: 126, 2
+  size: 53, 158
+  orig: 53, 158
+  offset: 0, 0
+  index: -1
+leg-right-01
+  rotate: false
+  xy: 184, 2
+  size: 53, 158
+  orig: 54, 158
+  offset: 0, 0
+  index: -1
+foot-right
+  rotate: false
+  xy: 362, 259
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+hip_01
+  rotate: false
+  xy: 106, 243
+  size: 69, 34
+  orig: 69, 34
+  offset: 0, 0
+  index: -1
+hip-02
+  rotate: false
+  xy: 248, 258
+  size: 69, 34
+  orig: 69, 34
+  offset: 0, 0
+  index: -1
+neck_1
+  rotate: false
+  xy: 207, 165
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+arm-left-blue
+  rotate: false
+  xy: 55, 165
+  size: 46, 89
+  orig: 46, 89
+  offset: 0, 0
+  index: -1
+arm-left-red
+  rotate: false
+  xy: 462, 2
+  size: 46, 90
+  orig: 46, 90
+  offset: 0, 0
+  index: -1
+elbow-left
+  rotate: false
+  xy: 165, 165
+  size: 37, 73
+  orig: 37, 73
+  offset: 0, 0
+  index: -1
+hand-left
+  rotate: false
+  xy: 2, 259
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+torso-blue
+  rotate: false
+  xy: 308, 2
+  size: 72, 113
+  orig: 72, 113
+  offset: 0, 0
+  index: -1
+torso-red
+  rotate: false
+  xy: 385, 2
+  size: 72, 113
+  orig: 72, 113
+  offset: 0, 0
+  index: -1
+arm-right-red
+  rotate: false
+  xy: 242, 140
+  size: 48, 89
+  orig: 48, 89
+  offset: 0, 0
+  index: -1
+arm-right-blue
+  rotate: false
+  xy: 2, 165
+  size: 48, 89
+  orig: 48, 89
+  offset: 0, 0
+  index: -1
+elbow-right
+  rotate: false
+  xy: 207, 234
+  size: 36, 74
+  orig: 36, 74
+  offset: 0, 0
+  index: -1
+hand-right
+  rotate: false
+  xy: 322, 258
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: false
+  xy: 106, 165
+  size: 54, 66
+  orig: 54, 66
+  offset: 0, 0
+  index: -1

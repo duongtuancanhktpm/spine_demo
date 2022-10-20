@@ -1,0 +1,118 @@
+
+democharacter.png
+size: 206,129
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+left-thigh
+  rotate: false
+  xy: 110, 2
+  size: 31, 67
+  orig: 31, 67
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 178, 46
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 86
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+hip
+  rotate: false
+  xy: 151, 74
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+left-arm
+  rotate: false
+  xy: 98, 74
+  size: 24, 45
+  orig: 24, 45
+  offset: 0, 0
+  index: -1
+left-elbow
+  rotate: false
+  xy: 127, 74
+  size: 19, 37
+  orig: 19, 37
+  offset: 0, 0
+  index: -1
+left-hand
+  rotate: false
+  xy: 151, 96
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+left-leg
+  rotate: false
+  xy: 2, 2
+  size: 29, 79
+  orig: 29, 79
+  offset: 0, 0
+  index: -1
+right-thigh
+  rotate: false
+  xy: 146, 2
+  size: 27, 67
+  orig: 27, 67
+  offset: 0, 0
+  index: -1
+upper-body
+  rotate: false
+  xy: 68, 2
+  size: 37, 57
+  orig: 37, 57
+  offset: 0, 0
+  index: -1
+right-arm
+  rotate: false
+  xy: 68, 64
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+right-elbow
+  rotate: false
+  xy: 35, 86
+  size: 19, 38
+  orig: 19, 38
+  offset: 0, 0
+  index: -1
+right-hand
+  rotate: false
+  xy: 174, 96
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+right-leg
+  rotate: false
+  xy: 36, 2
+  size: 27, 79
+  orig: 27, 79
+  offset: 0, 0
+  index: -1
+left-foot
+  rotate: false
+  xy: 178, 24
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+right-foot
+  rotate: false
+  xy: 178, 2
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
